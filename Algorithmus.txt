@@ -1,0 +1,5 @@
+Tic Tac Toe
+
+1.Starte das Spiel
+2.Spieler 1 beginnt das Spiel mit einem "X" auf einem der 9 Felder
+3.Spieler 2 macht den nächsten Zug mit einem "Y" auf eins der freien Felder
